@@ -1,0 +1,23 @@
+
+# Virtual environments
+venv/
+.venv/
+
+# Databases
+*.sqlite3
+*.sqlite
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
